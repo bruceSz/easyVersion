@@ -1,0 +1,5 @@
+# below requirements are partly copied from those from nova project 
+# of openstack.
+SQLAlchemy>=0.8.4,<=0.8.99,>=0.9.7,<=0.9.99
+oslo.db>=1.0.0  # Apache-2.0
+oslo.config>=1.4.0  # Apache-2.0
